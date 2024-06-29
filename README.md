@@ -16,6 +16,10 @@ To try out the solutions:
 2. Navigate to the folder for the day you are interested in.
 3. Read the `README.md` in each folder for details about the challenge and how to run the code.
 
+## Screenshots
+### Day 1
+![Day 1 Completion Screenshot](Screenshot/day1.png)
+
 ## Contact
 Feel free to reach out if you have any questions or suggestions regarding my solutions.
 
