@@ -8,13 +8,17 @@ Each folder in this repository represents one day of challenges. Inside each fol
 
 - **Day 1:** 
 - **Day 2:**
-- ...continue for each day...
+- **Day 3:**
 
 ## How to Use This Repository
 To try out the solutions:
 1. Clone the repository to your local machine.
 2. Navigate to the folder for the day you are interested in.
 3. Read the `README.md` in each folder for details about the challenge and how to run the code.
+
+## Screenshots
+### Day 1
+![Day 1 Completion Screenshot](Screenshot/day1.png)
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions regarding my solutions.
