@@ -8,7 +8,7 @@ Each folder in this repository represents one day of challenges. Inside each fol
 
 - **Day 1:** 
 - **Day 2:**
-- ...continue for each day...
+- **Day 3:**
 
 ## How to Use This Repository
 To try out the solutions:
