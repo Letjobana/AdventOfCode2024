@@ -6,7 +6,7 @@ namespace AdventOfCode2024
     {
         static void Main(string[] args)
         {
-            Day1.Part1();
+            Day1Part1.Execute();
         }
     }
 }
