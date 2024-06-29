@@ -18,7 +18,7 @@ To try out the solutions:
 
 ## Screenshots
 ### Day 1
-![Day 1 Completion Screenshot](Screenshot/day1.png)
+![Day 1 Completion Screenshot](AdventOfCode2024/AdventOfCode2024/Days/Day1/Screenshot/day1.png)
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions regarding my solutions.
