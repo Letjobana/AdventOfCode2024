@@ -6,7 +6,9 @@ namespace AdventOfCode2024
     {
         static void Main(string[] args)
         {
-            Day1Part1.Execute();
+            // Uncomment the part you want to run
+            //Day1Part1.Execute();
+            Day1Part2.Execute();
         }
     }
 }
